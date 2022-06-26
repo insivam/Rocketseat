@@ -70,7 +70,7 @@ export function Subscribe() {
         </div>
       </div>
       <img
-        src="/src/assets/code-mockup.png"
+        src="https://i.imgur.com/19spVjX.png"
         className="mt-10"
         alt="Fundo da pagina"
       />
